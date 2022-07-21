@@ -1,4 +1,4 @@
-import clustrering_code
+import clustering_code
 import os
 
 def clean_t_dataset():
@@ -8,7 +8,7 @@ def clean_t_dataset():
         pass
 def get_movie_name():
     input_movie=input("Enter the movie name: ")
-    movies=clustrering_code.cluster_everything(input_movie)
+    movies=clustering_code.cluster_everything(input_movie)
     if type(movies)==int:
         pass
     else:
