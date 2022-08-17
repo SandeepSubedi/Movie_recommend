@@ -1,4 +1,5 @@
 # Movie_recommend
+Master branch consists of all code files<br/>
 Movie recommendation system using scraped data of IMDB<br/>
 steps to run the code <br/>
 step1: Install the requirements using requirements.txt <br/>
